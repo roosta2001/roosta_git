@@ -24,3 +24,21 @@ img{
     border-radius: 13px;
     
 }
+.song-name{
+    font-family: 'Franklin Gothic Medium';
+    color: white;
+    text-align: center;
+    text-shadow: 2px 2px 2px rgba(0, 0, 0, 0.505);
+    margin: 0px;
+}
+.singer{
+    font-family: 'Franklin Gothic Medium';
+    color: rgb(68, 68, 68);
+    text-align: center;
+    text-shadow: 2px 2px 2px rgba(0, 0, 0, 0.505);
+    margin: 0px;
+}
+.singer:hover{
+    color: rgb(32, 32, 32);
+    cursor: pointer;
+}
